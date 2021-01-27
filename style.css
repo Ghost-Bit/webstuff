@@ -1,17 +1,35 @@
 html{
   background-color: black
 }
+#bruh{
+  background-color: black;
+  font-size: 0.35em;
+  text-align: center;
+  clear: both;
+  padding-top: 1px;
+  color: black;
+}
+footer{
+  background-color: white;
+  font-size: 0.75em;
+  text-align: left;
+  clear: both;
+  padding-top: 5px;
+  color: black;
+}
 body {
   background: white;
+  line-height: 16px;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-right: 20px;
   margin-left: 20px;
-
 }
+}  
 p {
   color: black;
 }
 h1 {
   font-weight: bold;
   color: white;
+}
