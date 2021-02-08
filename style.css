@@ -9,12 +9,28 @@ html{
   padding-top: 5px;
   color: black;
 }
+#boi{
+  background-color: black;
+  font-size: 0.35em;
+  text-align: center;
+  clear: both;
+  padding-top: 3px;
+  color: black;
+}
+#bronjame{
+  background-color: grey;
+  font-size: 0.35em;
+  text-align: left;
+  clear: both;
+  padding-top: 1px;
+  color: black;
+}
 footer{
   background-color: white;
   font-size: 0.75em;
   text-align: left;
   clear: both;
-  padding-top: 5px;
+  padding-top: 1px;
   color: black;
 }
 body {
@@ -33,3 +49,4 @@ h1 {
   font-weight: bold;
   color: white;
 }
+
