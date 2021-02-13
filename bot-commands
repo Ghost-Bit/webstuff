@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head> <link rel="shortcut icon" type="image/x-icon" href="https://raw.githubusercontent.com/Ghost-Bit/webstuff/main/gho.png">
+
+  
+  <body><img src="https://raw.githubusercontent.com/Ghost-Bit/webstuff/main/Ghost.svg" alt= "logo"><a href="https://ghost-bit.github.io/webstuff/"><img src="https://raw.githubusercontent.com/Ghost-Bit/webstuff/main/letsgooooo!!!!!!!!!!!!.gif" alt="Ghosty Website!!!!!!!!!!!!!!!!!!!!"></a>
+    <footer id="boi">
+    </footer>
+    <footer id="bronjame"
+    <br>
+    <input type="button" value="Homepage" 
+           onclick="location.href = 'https://ghost-bit.github.io/webstuff/'" />
+    <input type="button" value="Github Page" 
+        onclick="location.href = 'https://github.com/Ghost-Bit'" />
+    <input type="button" value="FlamingText" 
+           onclick="location.href = 'https://cooltext.com/Logo-Design-Burning'" />
+    <input type="button" value="My Youtube Account" 
+           onclick="location.href = 'https://www.youtube.com/channel/UCT3-J1coXVqslcNaruN7MAQ'" />
+    <input type="button" value="Cool Stuff" 
+           onclick="location.href = 'coolstuff'" />
+      <input type="button" value="Gallery" 
+           onclick="location.href = 'gallery'" />
+      <input type="button" value="Discussion Index" 
+           onclick="location.href = 'https://ghost-bit.github.io/webstuff/discussion/'" />
+    </footer>
+    <footer id="boi">
+    </footer><br>
+   PUYO ROBOT COMMAND LIST: <br>
+   p?about - Sends some basic information about the bot when triggered.<br>
+   p?roll [INT]  - Rolls a dice with the amount of sides inputted.<br>
+   p?s-roll [INT] - Same as p?roll, but command output is sent directly to it's status rather than sent as a message in chat,<br>
+   p?vs-roll [INT 1] [INT 2] - Rolls two dice, then tells the difference of said dice.<br>
+   p?help - Sends a link to this page.<br>
+   p?wow [UPPERCASE ONLY STRING (NO NUMBERS)] - Sends emotes in chat replacing what it received<br>
+   p?st-roll [INT] - Sets status to output of dice roll with no leading text.<br>
+   p?userphone [SERVER ShortName] [Message Content] - Sends a message to a server's specified Bot or Userphone channel.<br>
+   p?servers-userphone - Sends a list in the chat of registered Server Shortnames for usage with the Userphone Command.<br>
+   p?leaderboard [PAGE NUMBER (Optional, but will only send first page unless provided)] - Gets a page from the cross-server leaderboard, containing all user messages counted since added to a server (Does not count messages before added or while offline!)<br>
+   p?die - ???<br>
+   p?cool - Basically a randomized True/False thing.<br>
+   p?r-cool Same as p?cool, but reacts instead of sending as a gif.<br>
+   p?rate [thing1] [thing2] - Outputs something's something level.<br>
+   p?offtopic [Page #] - Grabs a page from AiDungeon's offtopic message log.<br>
+   p?box [width] [height] - outputs an ascii box based on the variables provided.<br>
+   p?1~box [width [height] - outputs a block-style box based on the variables provided.<br>
+   p?suggest [message content] - Sends a suggestion to the dev's suggestions folder.<br>
+   p?whoami - Sends your user tag in chat as text<br>
+
+    <br>
+  </body>
+  <footer id="bruh"><!you'd call me an asylum escapee if i could describe how stupidly complicated it was to make a 1 PIXEL DIVISION between the body and the footer, augh, html spaghetti, but i'm pretty new to this, so...>
+  </footer>
+  <footer>
+    Site made by ghosty bruh, special thanks to google for some stuff i had to look up every now and then
+    <br><a href="mailto:Kingofnoodles27@gmail.com">✉ Email 1 (Primary)</a>
+    <br><a href="mailto:Frankiemeanssausages641@gmail.com">✉ Email 2 (Secondary)</a><br><br>
+    <br><a href="discussion/bot-commands">Discussion: Bot Commands<a/>
+  </footer>
+</html>
